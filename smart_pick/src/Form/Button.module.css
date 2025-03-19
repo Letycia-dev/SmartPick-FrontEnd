@@ -10,6 +10,8 @@ button{
     font-size: 1.2em;
     cursor: pointer;
     transition: .4s;
+    margin-left: 35%;
+
 }
 
 button:hover{
